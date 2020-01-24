@@ -1,6 +1,8 @@
 package com.lambton;
 
-public class stringArrayHandling {
+
+public class stringArrayHandling
+{
     public static void stringArrayHandling() {
         String str[];
         str = new String[10];
@@ -23,15 +25,6 @@ public class stringArrayHandling {
         }
     }
 
-    public static String revString(String str)
-    {
-        char c [] = str.toCharArray();
-        String rev="";
-        for (int i = c.length-1; i>=0; i--)
-        {
-            rev= rev+c[i];
-        }
-        return rev;
-    }
+
 }
 
