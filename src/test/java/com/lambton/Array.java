@@ -51,7 +51,7 @@ public class Array {
         c[2] = 30;
         c[3] = 40;
         c[4] = 50;
-        //c[7]=0;
+        //c[7]=0;akjdkjadh
         //c[5]=60;
 
         int d[] = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
